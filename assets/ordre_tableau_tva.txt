@@ -1,0 +1,7 @@
+1 - Faire le HTML (Titre + ligne de 3 boutons + en tête et première ligne du tableau)
+2 - Fonction ajouter une ligne
+3 - Fonction supprimer une ligne
+4 - Effacer les champs
+5 - Fonction btn calculer
+6 - Fonction btn effacer
+7 - Fonction btn supprimer
